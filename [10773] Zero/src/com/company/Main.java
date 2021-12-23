@@ -125,6 +125,7 @@ public class Main {
             }
         }
         System.out.println(s.answer());
+        System.out.println('d');
     }
 }
 
